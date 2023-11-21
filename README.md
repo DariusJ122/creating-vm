@@ -1,4 +1,5 @@
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/db2a3499-14ac-47d6-a064-e72a82424984)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a31856fc-efdf-4c2d-b665-2ed272e62cd1)
+
 
 
 <h1>Creating a VM in Azure!</h1>
@@ -24,12 +25,12 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 1.) The first thing you are going to want to do is create a virtual machine by going to https://portal.azure.com/. First login to azure. You should see the home screen, that looks like this image below.
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/d8654579-f33b-43ea-a647-17e678b41717)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/5800872a-0bf5-44df-a136-8f30fa175ddb)
 
 
 2.) Now head to the virtual machine icon, or simply type in the search bar "Virtual Machines".
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/152bc1a5-7b5b-4477-b52e-a8bcb896dbc6)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9aba926a-4b3e-4ed7-b554-00a5667fe928)
 
 </p>
 <br />
@@ -37,49 +38,49 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 3.) You should now see the homepage of the Virtual Machine tab.
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/ec7847d6-df05-4c80-b958-c7b529e9e175)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/724bd162-cb12-4185-b573-35f1df069680)
 
 
 4.) Click on the top left dropdown where it says Create, and choose Azure Virtual Machine.
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/a543e6f5-3494-4a74-9949-868bf4f3567d)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/f44ee44e-c442-4121-b425-092189b15a01)
 
 
 
 5.) Now you're in the process of choosing your Virtual Machine specs.
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/25da5004-c440-42ea-8a6f-c5af7c0bc823)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/33d99957-1902-462f-9968-13be05a61342)
 
 
 
 6.) Start off by making sure you have a current subscription, and we're going to name this Virtual Machine "VM-1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For the experiment I'll select Sweden Central. Than we're going to choose Windows 10 for the image.
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/3c84fdaa-6d34-4c21-994c-1a971fd8e288)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/81a158ab-e996-408a-b098-76f61dbb337d)
 
   
 7.) Now choose the size, we'll use "2 VCPUS,16 GIB Memory", and our username will be "labuser1" and the password will be "Password1VM1" make sure you click the windows checkbox, and than hit review and create!
   
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/d814bb6a-2fcd-4033-af56-ee8bf35f0705)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/ac731d30-bbff-4441-8286-047c6a5ccc8f)
 
 
 8.) You should get a validation passed, and than hit create.
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/c5ece425-49a0-4965-816c-85c2c9a8b295)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a170b46b-8ef9-42b1-bc35-e3de963757f3)
 
 
 9.) Allow the Virtual Machine to deploy, ths may take a few minutes,
   
  
- ![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/b785bc26-a8f4-4469-a8f1-8c002b960368)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9445276f-196e-4356-92b2-631f23deb15a)
 
  
 10.) The deployment should now be complete.
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/d4fe96dd-57c4-4b7c-8ca3-bc731da6e984)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/db14674a-db3f-48b6-a947-0448a7fadb81)
 
 
   
@@ -87,7 +88,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/a3dd341d-2b42-4689-aa2d-604de262af70)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/fcb29827-2cda-46fa-8e00-84c388d6bafb)
 
 
 
@@ -95,7 +96,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
   
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/2f214fa9-6294-4c7c-bdde-f8a7a110baad)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/89996581-9e09-4788-8fbd-0514f6d405d5)
 
 
 
@@ -103,7 +104,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/b4f8c813-5d0f-422a-b6f8-15e013ef20bd)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/45380f85-a41c-4cae-a036-02e888a0fb87)
 
 
 
@@ -111,7 +112,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
   
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/541506b0-d22d-4573-b677-19944add757c)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/45239334-14ca-4281-8851-feb674500d12)
 
 
 
@@ -119,7 +120,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 15.) You'll now be prompted to log in with a username and password. Using the one we created in the beginning log in, (labuser1 - username, Password1VM1 - passsword) you should see a prompt saying "Do you want to connect anyways?" Click yes.
   
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/47c8d178-d487-4c83-bd42-8d1f4892e305)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/01524929-4735-459f-b73d-ce15c9448abb)
 
 
 
@@ -128,7 +129,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
   
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/c578c38b-0ea9-4749-95d8-72f28b46cd88)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/3a42d681-fe82-4d15-b3a9-99eeba318d94)
 
 
 
@@ -136,7 +137,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/73736361-d0c0-40b7-9dd8-5c8c11cfc244)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/03e0dbfb-4f64-4386-aa1c-7331af3037d2)
 
 
 
@@ -149,7 +150,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/dd2ea6d0-c3bd-481a-a17c-1400ec15859f)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/24d5818d-7919-4358-a61c-a366e896a3da)
 
 
 
@@ -160,7 +161,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/9f82323b-8061-40b1-bfb5-9c1a8c91de0c)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/0a7c2e47-4f63-40c9-930d-7a1923b73cab)
 
 
 
@@ -170,7 +171,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/d494812a-f287-44a5-9701-a9fd9422af0e)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/5f883ad2-36b6-4515-8af6-536b057670e8)
 
 
 
@@ -181,7 +182,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/db4e58b1-669e-4a26-8d7a-01c27aaa8cbf)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a9f69598-7895-44de-ba69-76bfa7e6cbb0)
 
 
 
@@ -190,7 +191,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/9c96c82b-90ff-4771-afdf-63472ee13bc4)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9be1c1ea-bba5-42bc-8c63-864813aac09b)
 
 
 
@@ -198,7 +199,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 24.) Now type the name of the resource group, and click delete.
 
 
-![image](https://github.com/DariusJ122/osticket-prereqs/assets/150752364/913a508f-e2e0-4175-a5b4-91135073be4b)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/cf42e946-243e-41dc-ab65-f4b183623390)
 
 
 25.) CONGRATS!! You have now created your first Virtual Machine! Here's also a link to a creator who I watch pretty often, who's discussing some creative ways you can use a Virtual Machine - https://technotim.live/posts/20-ways-virtual-machine/
