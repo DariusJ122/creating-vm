@@ -9,7 +9,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 <h2>Operating Systems Used </h2>
 
